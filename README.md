@@ -7,7 +7,9 @@ Entities
 - Publisher
 - Author
 - Book
+- Member
 - Loan
+- Book Author
 
  Relationships
 - One member can loan many books.
