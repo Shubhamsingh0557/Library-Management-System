@@ -4,7 +4,7 @@ Domain
 Library system to manage books, authors, members, and loan records.
 
 Entities
-- Member
+- Publisher
 - Author
 - Book
 - Loan
